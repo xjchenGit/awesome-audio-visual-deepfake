@@ -1,5 +1,5 @@
 # awesome-audio-visual-deepfake
-This repository contains papers related to audio-visual deepfake and adversarial attacks.
+This repository contains papers related to audio-visual deepfake.
 
 ## DeepFake and adversarial attack
 + Chen, Xuanjun, et al. "[Push-Pull: Characterizing the Adversarial Robustness for Audio-Visual Active Speaker Detection](https://arxiv.org/abs/2210.00753)." 2022 IEEE Spoken Language Technology Workshop (SLT). IEEE, 2023. [[demo]](https://xjchen.tech/Push-Pull/index.html)
