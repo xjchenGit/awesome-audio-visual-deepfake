@@ -9,9 +9,9 @@ This repository contains papers related to audio-visual deepfake.
 ## Multimodal model
 + Zhang, Rui, et al. "[UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization](https://arxiv.org/abs/2308.14395)." Proceedings of the 31st ACM International Conference on Multimedia. 2023. [[code]](https://github.com/ymhzyj/UMMAFormer)
 
-## audio-only-modal model
+## Audio-only model
 
-## visual-only-modal model
+## Visual-only model
 
 ## Dataset
 + Cai, Zhixi, et al. "[AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset](https://arxiv.org/pdf/2311.15308v1.pdf)." arXiv preprint arXiv:2311.15308 (2023).
